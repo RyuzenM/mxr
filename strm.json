@@ -4,7 +4,7 @@
     "containerDefinitions": [
         {
             "name": "fargate-app", 
-            "image": "public.ecr.aws/n3f2s6q0/cadadah", 
+            "image": "registry.gitlab.com/artamuhammad27/damber/sikopet:latest", 
             "command": [
             ]
         }
