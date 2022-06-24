@@ -4,7 +4,7 @@
     "containerDefinitions": [
         {
             "name": "fargate-app", 
-            "image": "registry.gitlab.com/artamuhammad27/damber/sikopet:latest", 
+            "image": "public.ecr.aws/v1b6y6f1/drband", 
             "command": [
             ]
         }
